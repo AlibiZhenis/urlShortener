@@ -1,3 +1,14 @@
 # URL Shortener Microservice
 
-This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
+This is Alibi Zhenis's personal project.
+Tech stack used: Node.js, Express.js, MongoDB, Mongoose
+
+# Setup
+1. Set an environment variable MONGO_URI to your database's connection string.
+2. Launch command:
+``node index.js``
+
+# Demo
+
+![Alt text](url_demo1.png?raw=true "Title")
+![Alt text](url_demo2.png?raw=true "Title")
